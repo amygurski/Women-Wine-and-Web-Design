@@ -1,0 +1,27 @@
+body {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: darkred;
+}
+    
+img 
+{
+    height: 100px;
+    width: auto;
+}
+
+#list, #toggle-button {
+    text-align: left;
+    float: left;
+    background-color: whitesmoke;
+    color: darkred;
+    padding: 10px;
+}
+
+#list-group {
+    float: left;
+}
+
