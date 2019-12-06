@@ -1,2 +1,2 @@
 # Women-Wine-and-Web-Design
-Women, Wine and Web Design at Tech Elevator
+Two hour introduction to HTML & CSS at Tech Elevator. 
